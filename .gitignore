@@ -34,3 +34,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+config/SF1_20150301.csv
+config/indicators.txt
+config/tickers.txt
+blah.xlsx
